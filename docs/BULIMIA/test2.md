@@ -27,7 +27,7 @@ Wyróżnienie
 
 Pąłśkię Żńąki
 
-[[test4|Linki do innych stron]]
+[[test4.md|Linki do innych stron]]
 
 - Listy
 
