@@ -17,17 +17,17 @@ Powinny funkcjonować tutaj wszystkie fukcje formatu markdown
 
 #### Heading 4
 
-Pogrubienie
+**Pogrubienie**
 
-Kursywa
+*Kursywa*
 
-Przekleślenie
+~~Przekleślenie~~
 
-Wyróżnienie
+==Wyróżnienie==
 
 Pąłśkię Żńąki
 
-[[test4.md|Linki do innych stron]]
+[[.../Endokrynologia/test4.md|Linki do innych stron]]
 
 - Listy
 
