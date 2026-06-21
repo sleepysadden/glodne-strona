@@ -8,6 +8,7 @@ To jest testowy plik pokazujący możliwości formatowania w stronie
 
 Powinny funkcjonować tutaj wszystkie fukcje formatu markdown
 
+#Tagi
 
 # Heading
 
@@ -27,7 +28,7 @@ Powinny funkcjonować tutaj wszystkie fukcje formatu markdown
 
 Pąłśkię Żńąki
 
-[[.../Endokrynologia/test4.md|Linki do innych stron]]
+[.../Endokrynologia/test4.md](Linki do innych stron)
 
 - Listy
 
